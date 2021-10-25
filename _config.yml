@@ -21,11 +21,11 @@
 title: "9.19: Computational Psycholinguistics (Fall 2021 edition)"
 email: rplevy@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: ""
+  Advanced undergraduate & graduate class on language, computation,
+  and the mind, taught in the Department of Brain & Cognitive Sciences at MIT
+baseurl: "" # this needs to be empty
 url: "https://rlevy.github.io/9.19-syllabus/" # the base hostname & protocol for your site, e.g. http://example.com
+include: ["_pages"]
 
 # Build settings
 theme: minima
