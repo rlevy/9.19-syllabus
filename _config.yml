@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Advanced undergraduate & graduate class on language, computation,
   and the mind, taught in the Department of Brain & Cognitive Sciences at MIT
 baseurl: "9.19-syllabus"
-url: "https://rlevy.github.io/9.19-syllabus/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rlevy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 include: ["_pages"]
 
 # Build settings
