@@ -66,3 +66,7 @@ We use new homework and exam materials every year, and it can be hard to perfect
 | >=60%     | D                        |
 
 So, for example, an overall score of 90.0001% of points guarantees you an A-, but you could well wind up with a higher grade depending on the ultimate grade thresholds determined at the end of the semester.
+
+### Regrade requests
+
+In general our experience is that our grading is consistent and fair, but instructors can make mistakes like everyone else, and we want to make sure you get the points and the grade you deserve. Our statute of limitations is that **all regrade requests must be made within two weeks of the instructors returning graded work to the class.** This is to keep things manageable on the instructors' end. Thank you!
