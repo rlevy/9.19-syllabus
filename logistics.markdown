@@ -45,6 +45,16 @@ You'll be graded on:
 
 Active participation in the class is also encouraged and taken into account in borderline grade cases!
 
+### Collaboration policy
+
+We strongly encourage you to study, work together, and collaborate with classmates. This includes reviewing and discussing readings, pre-recorded lectures, and in-class exercises, discussing homework assignments (psets), and studying to prepare for exams. However:
+
+ - **You must write up your homework assignments on your own, and you may not share your written homework assignments or code for assignments with each other until the assignment is graded and returned to the class.** Additionally, please list the people you have discussed the pset with at the top of your assignment.
+ - **For take-home exams, please do the work entirely on your own, without discussing with classmates.**
+
+Class projects are fully collaborative and write-ups should be done jointly. 
+
+
 ### Pset late policy
 
 Psets can be turned in up to 7 days late; 10% of your score will be deducted for each 24 hours of lateness (rounded up, so e.g. you lose 10% of your score for an assignment turned in 12 hours late).  For example, if a homework assignment is worth 80 points, you turn it in 3 days late, and earn a 70 before lateness is taken into account, your score will be (1-0.3)*70=49.
