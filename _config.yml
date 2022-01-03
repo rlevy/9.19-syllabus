@@ -25,12 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   and the mind, taught in the Department of Brain & Cognitive Sciences at MIT
 baseurl: "/9.19-syllabus"
 url: "https://rlevy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-include: ["_pages"]
+#include: ["_pages"]
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+#header_pages:
+# - syllabus.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +54,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude: [assets/syllabus]
+
+
+# I tried excluding the syllabus.org page using directions at  https://github.com/jekyll/jekyll-sitemap#exclusions but it didn't work
