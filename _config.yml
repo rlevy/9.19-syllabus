@@ -55,7 +55,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# The following works for excluding assets/syllabus/syllabus.org as a file from _site
 exclude: [assets/syllabus]
-
 
 # I tried excluding the syllabus.org page using directions at  https://github.com/jekyll/jekyll-sitemap#exclusions but it didn't work
