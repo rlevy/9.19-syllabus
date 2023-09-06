@@ -18,7 +18,7 @@ title: Logistics
 |---------------------------+----------------------------------------------------------------------------------------------------------------------------------|
 | |  | Office hours
 | Instructor                | [Roger Levy](http://www.mit.edu/~rplevy) ([rplevy@mit.edu](mailto:rplevy@mit.edu))    | Mondays 11am–12pm @ 46-3033                                                                                                  
-| Teaching Assistants       | Thomas Clark ([thclark@mit.edu](mailto:thclark@mit.edu))| TBD |
+| Teaching Assistants       | Thomas Clark ([thclark@mit.edu](mailto:thclark@mit.edu))| Wednesdays 1pm–2pm, BCS Complex Atrium |
 |                           | Adele Mortier ([mortier@mit.edu](mailto:mortier@mit.edu)) | Thursdays 12–1pm on Zoom
 
 ## Class organization
