@@ -8,22 +8,23 @@ title: Logistics
 ## Class information
 
 |-------------------------------|---------------------------------------------------|
-| Lecture Times                               | Mondays & Wednesdays 9:30–11:00am                 |
-| Lecture Location | 46-3037                                          |
-| Class website (Canvas)              | [https://canvas.mit.edu/courses/22681](https://canvas.mit.edu/courses/22681)              |
-| Syllabus                      | [http://www.mit.edu/~rplevy/teaching/2023fall/9.19](http://www.mit.edu/~rplevy/teaching/2023fall/9.19) |
-|-------------------|------|
+| Lecture Times                               | Mondays & Wednesdays 9:30–11:00am                 
+| Lecture Location | 46-3037                                          
+| Class website (Canvas)              | [https://canvas.mit.edu/courses/22681](https://canvas.mit.edu/courses/22681)              
+| Syllabus                      | [https://rlevy.github.io/9.19-syllabus/](https://rlevy.github.io/9.19-syllabus/)
+
 ## Instructional staff
 
 |---------------------------+----------------------------------------------------------------------------------------------------------------------------------|
 | |  | Office hours
-| Instructor                | [Roger Levy](http://www.mit.edu/~rplevy) ([rplevy@mit.edu](mailto:rplevy@mit.edu))    | Wednesdays 11am-12pm @ 46-3189                                                                                                  |
-| Teaching Assistants       | Thomas Clark ([thclark@mit.edu](mailto:thclark@mit.edu))| Fridays 11am-12pm @ 46-4062 |
+| Instructor                | [Roger Levy](http://www.mit.edu/~rplevy) ([rplevy@mit.edu](mailto:rplevy@mit.edu))    | Mondays 11am–12pm @ 46-3033                                                                                                  
+| Teaching Assistants       | Thomas Clark ([thclark@mit.edu](mailto:thclark@mit.edu))| TBD |
+|                           | Adele Mortier ([mortier@mit.edu](mailto:mortier@mit.edu)) | Thursdays 12–1pm on Zoom
 
 ## Class organization
 
 
-The fall 2021 edition of 9.19/9.190 operates as a ["flipped"](https://en.wikipedia.org/wiki/Flipped_classroom) classroom.  We have pre-recorded lecture videos by the instructor available in advance of the class meeting time; part of your out-of-class work will involve watching the video for the upcoming class and preparing questions about it.  In-class activities will include in-class exercises, reviewing answering questions about lecture and exercise content, and open discussion.
+The fall 2023 edition of 9.19/9.190 operates partially  a ["flipped"](https://en.wikipedia.org/wiki/Flipped_classroom) classroom.  We have pre-recorded lecture videos by the instructor available in advance of the class meeting time; part of your out-of-class work will involve watching the video for the upcoming class and preparing questions about it.  In-class activities will include in-class exercises, reviewing answering questions about lecture and exercise content, and open discussion.
 
 We also have a weekly recitation session led by TAs, which will review relevant material on programming, linguistics, probability, and machine learning.
 
