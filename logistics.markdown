@@ -8,20 +8,17 @@ title: Logistics
 ## Class information
 
 |-------------------------------|---------------------------------------------------|
-| Lecture Times                 | Mondays & Wednesdays 9:30–11:00am                 |
-| Recitation Time               | Fridays 1-2pm                                     |
-| Lecture & Recitation Location | 46-3189                                           |
-| Class website                 | [https://canvas.mit.edu/courses/11393](https://canvas.mit.edu/courses/11393)              |
-| Syllabus                      | [http://www.mit.edu/~rplevy/teaching/2021fall/9.19](http://www.mit.edu/~rplevy/teaching/2021fall/9.19) |
-
+| Lecture Times                               | Mondays & Wednesdays 9:30–11:00am                 |
+| Lecture Location | 46-3037                                          |
+| Class website (Canvas)              | [https://canvas.mit.edu/courses/22681](https://canvas.mit.edu/courses/22681)              |
+| Syllabus                      | [http://www.mit.edu/~rplevy/teaching/2023fall/9.19](http://www.mit.edu/~rplevy/teaching/2023fall/9.19) |
+|-------------------|------|
 ## Instructional staff
 
 |---------------------------+----------------------------------------------------------------------------------------------------------------------------------|
 | |  | Office hours
 | Instructor                | [Roger Levy](http://www.mit.edu/~rplevy) ([rplevy@mit.edu](mailto:rplevy@mit.edu))    | Wednesdays 11am-12pm @ 46-3189                                                                                                  |
-| Teaching Assistants       | Rujul Gandhi ([rujul@mit.edu](mailto:rujul@mit.edu))| Fridays 11am-12pm @ 46-4062 |
-| | Hang Jiang ([hjian42@mit.edu](mailto:hjian42@mit.edu)) | Wednesdays 3-4pm @ 46-4199 |
-| | Mycal Tucker ([mycal@mit.edu](mailto:mycal@mit.edu))          |  Tuesdays 11am-12pm @ 46-4199 |
+| Teaching Assistants       | Thomas Clark ([thclark@mit.edu](mailto:thclark@mit.edu))| Fridays 11am-12pm @ 46-4062 |
 
 ## Class organization
 
@@ -54,6 +51,13 @@ We strongly encourage you to study, work together, and collaborate with classmat
 
 Class projects are fully collaborative and write-ups should be done jointly. 
 
+### Policy on use of generative AI
+
+Generative AI refers to tools that can generate media such as text, code, images, video, and sound, generally in response to inputs such as textual prompts or queries. In our view, using generative AI (e.g. ChatGPT) as part of creative and intellectual processes is becoming an important skill in contemporary society. Therefore we encourage you in general to use generative AI tools for the work in this course in whatever ways you believe best assist your learning and growth. (We the instructors are using these tools for the same purposes!) However, we ask that for every assignment you **report how you used generative AI tools, if you used them** (if you don't say anything about this, we'll assume you didn't use them). This will help us better understand how to develop assignments that best facilitate student learning and growth given the availability of generative AI tools.
+
+Additionally, there may be some specific pset or exam questions for which we ask that you don't use generative AI to answer. We'll make this clear for those questions.
+
+Since the generative AI landscape is changing so rapidly, this policy is subject to change mid-semester. If we change it, we'll announce the change.
 
 ### Pset late policy
 
