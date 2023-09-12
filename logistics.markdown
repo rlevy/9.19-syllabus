@@ -9,7 +9,7 @@ title: Logistics
 
 |-------------------------------|---------------------------------------------------|
 | Lecture Times                               | Mondays & Wednesdays 9:30–11:00am                 
-| Lecture Location | 46-3037                                          
+| Lecture Location | [**4-159**](https://whereis.mit.edu/?go=4)                                          
 | Class website (Canvas)              | [https://canvas.mit.edu/courses/22681](https://canvas.mit.edu/courses/22681)              
 | Syllabus                      | [https://rlevy.github.io/9.19-syllabus/](https://rlevy.github.io/9.19-syllabus/)
 
