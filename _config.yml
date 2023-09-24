@@ -55,6 +55,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
 # The following works for excluding assets/syllabus/syllabus.org as a file from _site
 exclude: [assets/syllabus]
 
