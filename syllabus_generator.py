@@ -80,11 +80,11 @@ def getVal(dict,key):
     else:
         return("")
 
-with open('new_syllabus.markdown','w') as outfile:
+with open('syllabus.markdown','w') as outfile:
     with open('assets/syllabus/syllabus_top.markdown','r') as syllabus_top:
         outfile.write(syllabus_top.read())
     
-    with open('assets/syllabus/syllabus_table.markdown','r') as order_file:
+    with open('assets/syllabus/syllabus_table.org','r') as order_file:
         syllabus_sketch = parse_md_table(order_file.read())
         print(syllabus_sketch)
         print(generate_md_table(syllabus_sketch))
