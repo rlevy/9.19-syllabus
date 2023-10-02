@@ -33,12 +33,12 @@ We also have a weekly recitation session led by TAs, which will review relevant 
 You'll be graded on:
 
 
-|----------------------------------------------------------+-------------------------+--------------------------|
-| Work                                                     | Grade percentage (9.19) | Grade percentage (9.190) |
-| A number of homework assignments throughout the semester |                     60% |                      48% |
-| A midterm exam                                           |                     15% |                      12% |
-| A final exam                                             |                     25% |                      20% |
-| If you are enrolled in 9.190, a class project            |                      -- |                      20% |
+|------------------------------------------------------------------------------------------------------------------------------+-------------------------+--------------------------|
+| Work                                                                                                                         | Grade percentage (9.19) | Grade percentage (9.190) |
+| A number of homework assignments throughout the semester                                                                     |                     60% |                      48% |
+| A midterm exam                                                                                                               |                     15% |                      12% |
+| A final exam                                                                                                                 |                     25% |                      20% |
+| If you are enrolled in 9.190, a class project (guidelines [here](assets/assignments/class_project_guidelines.pdf))           |                      -- |                      20% |
 
 
 Active participation in the class is also encouraged and taken into account in borderline grade cases!
