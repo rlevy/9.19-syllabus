@@ -106,6 +106,7 @@ with open('syllabus.markdown','w') as outfile:
                            'Videos': getVal(lectures[row['Topic']],'videos'),
                            'Slides': getVal(lectures[row['Topic']],'slides'),
                            'Readings': getVal(lectures[row['Topic']],'readings'),
+                           'Optional videos': getVal(lectures[row['Topic']],'optional videos'),
                            'Related readings': getVal(lectures[row['Topic']],'related readings'),
                            'Problem sets': row['Psets']}
                 new_rows.append(new_row)

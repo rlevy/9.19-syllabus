@@ -20,7 +20,9 @@ Readings will frequently be drawn from the following textbooks:
 
    This is the book for the [Natural Language Toolkit](http://www.nltk.org/) (or NLTK), which we may be using for programming.  We will also be doing some of our programming in the Python programming language, and will make quite a bit of use of Python.  You can buy this book, or you can freely access it on the Web at [http://www.nltk.org/book](http://www.nltk.org/book).
 
-4. Christopher D. Manning and Hinrich Schütze. (1999). Foundations of statistical natural language processing. Cambridge: MIT press.  Book chapter PDFs can be obtained through the MIT library website. (I refer to this book as "M&S" in the syllabus.)
+4. Emiliy Bender. 2013. Linguistic Fundamentals for Natural Language Processing 100 Essentials from Morphology and Syntax. Springer. If you are authenticated using your MIT credentials you can download this book in PDF format [here](https://link.springer.com/book/10.1007/978-3-031-02150-3).
+
+5. Christopher D. Manning and Hinrich Schütze. 1999. Foundations of statistical natural language processing. Cambridge: MIT press.  Book chapter PDFs can be obtained through the MIT library website. (I refer to this book as "M&S" in the syllabus.)
 
    This is an older but still very useful book on natural language processing (NLP).
 
