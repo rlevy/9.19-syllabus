@@ -60,6 +60,11 @@ Additionally, there may be some specific pset or exam questions for which we ask
 
 Since the generative AI landscape is changing so rapidly, this policy is subject to change mid-semester. If we change it, we'll announce the change.
 
+
+### Submitting assignments
+
+Please submit your psets and course projects via [Canvas](https://canvas.mit.edu/courses/22681). For each pset submission, attach each submission file individually---please do *not* zip them together into a single bulk file as it creates additional work for the graders.
+
 ### Pset late policy
 
 Psets can be turned in up to 7 days late; 10% of your score will be deducted for each 24 hours of lateness (rounded up, so e.g. you lose 10% of your score for an assignment turned in 12 hours late).  For example, if a homework assignment is worth 80 points, you turn it in 3 days late, and earn a 70 before lateness is taken into account, your score will be (1-0.3)*70=49.
