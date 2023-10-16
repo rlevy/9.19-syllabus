@@ -16,9 +16,9 @@ title: Logistics
 ## Instructional staff
 
 |---------------------------+----------------------------------------------------------------------------------------------------------------------------------|
-| |  | Office hours
-| Instructor                | [Roger Levy](http://www.mit.edu/~rplevy) ([rplevy@mit.edu](mailto:rplevy@mit.edu))    | Mondays 11am–12pm @ 46-3033                                                                                                  
-| Teaching Assistants       | Thomas Clark ([thclark@mit.edu](mailto:thclark@mit.edu))| Wednesdays 1pm–2pm, BCS Complex Atrium |
+| |  | Office hours |
+| Instructor                | [Roger Levy](http://www.mit.edu/~rplevy) ([rplevy@mit.edu](mailto:rplevy@mit.edu))    | Mondays 11am–12pm @ 46-3033              |
+| Teaching Assistants       | Thomas Clark ([thclark@mit.edu](mailto:thclark@mit.edu))| Wednesdays 1pm–2pm @ 46-3027  |
 |                           | Adele Mortier ([mortier@mit.edu](mailto:mortier@mit.edu)) | Thursdays 12–1pm on Zoom
 
 ## Class organization
