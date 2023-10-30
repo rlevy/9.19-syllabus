@@ -69,6 +69,8 @@ Please submit your psets and course projects via [Canvas](https://canvas.mit.edu
 
 Psets can be turned in up to 7 days late; 10% of your score will be deducted for each 24 hours of lateness (rounded up, so e.g. you lose 10% of your score for an assignment turned in 12 hours late).  For example, if a homework assignment is worth 80 points, you turn it in 3 days late, and earn a 70 before lateness is taken into account, your score will be (1-0.3)*70=49.
 
+We also offer 3 *late days* to each student. Using a late day on a pset means that you don't receive a 10% penalty for handing in the pset a day late. (You can use multiple late days for the same assignment, e.g. if you hand an assignment in 2 days late, you can use 2 late days to offset what would ordinarily be a 20% penalty.) The late days will be automatically assigned at the end of the semester in a way that is maximally beneficial to the student.
+
 ### Personal or medical circumstances impacting psets, exams, or projects
 
 If personal or medical circumstances such as illness impact your work on a pset or project, or your ability to take an exam on the scheduled date with adequate preparation, please work with [Student Support Services (S3)](https://studentlife.mit.edu/s3/support-advocacy/excuse-notes) to verify these circumstances and be in touch with the instructor.  We are happy to work with you in whatever way is most appropriate to your individual circumstances to help ensure that you are able to achieve your best performance in class while maintaining your health, happiness, and well-being.
