@@ -151,6 +151,9 @@ lectures:
       - "[Simple recurrent networks](https://youtu.be/qJpVOvI25vw)"
       - "[GRUs and LSTMs](https://youtu.be/F3AJ5186-pQ)"
       - '[Learning the "counting language"](https://youtu.be/e6p4C0YatfU)'
+    slides:
+      - "Logistic regression recap, and simple neural networks ([no builds](assets/slides/2023-11-02-logistic-regression-and-neural-networks-no-builds.pdf); [with builds](assets/slides/2023-11-02-logistic-regression-and-neural-networks-with-builds.pdf)"
+      - "Neural networks for natural language ([no builds](assets/slides/2023-11-02-neural-networks-for-natural-language-no-builds.pdf); [with builds](assets/slides/2023-11-02-neural-networks-for-natural-language-with-builds.pdf)"
 
   Transformers and LLMs:
     topic: Transformers and large language models
