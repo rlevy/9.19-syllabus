@@ -163,8 +163,12 @@ lectures:
       - "[Targeted syntactic evaluation with SyntaxGym](https://youtu.be/3JFbU6F_SBY)"
       - "[Filler–Gap Dependencies](https://youtu.be/kNlRlDs43pU)"
       - "[Island constraints](https://youtu.be/omMMVoXDSqU)"
-    
-
+    slides:
+      - "Transformers, targeted syntactic evaluation, and learnability ([no builds](assets/slides/2023-11-06-transformers-and-large-language-models-no-builds); [with builds](assets/slides/2023-11-06-transformers-and-large-language-models-with-builds))"
+    readings:
+      - "[Vaswani et al., 2017](https://arxiv.org/pdf/1706.03762.pdf)"
+      - "Sasha Rush's [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)"
+      - "[Wilcox et al., 2018](https://direct.mit.edu/ling/article-abstract/doi/10.1162/ling_a_00491/113304/Using-Computational-Models-to-Test-Syntactic)"
   Predictive processing:
     topic: Predictive processing in human language comprehension
 
