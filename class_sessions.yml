@@ -164,7 +164,7 @@ lectures:
       - "[Filler–Gap Dependencies](https://youtu.be/kNlRlDs43pU)"
       - "[Island constraints](https://youtu.be/omMMVoXDSqU)"
     slides:
-      - "Transformers, targeted syntactic evaluation, and learnability ([no builds](assets/slides/2023-11-06-transformers-and-large-language-models-no-builds); [with builds](assets/slides/2023-11-06-transformers-and-large-language-models-with-builds))"
+      - "Transformers, targeted syntactic evaluation, and learnability ([no builds](assets/slides/2023-11-06-transformers-and-large-language-models-no-builds.pdf); [with builds](assets/slides/2023-11-06-transformers-and-large-language-models-with-builds.pdf))"
     readings:
       - "[Vaswani et al., 2017](https://arxiv.org/pdf/1706.03762.pdf)"
       - "Sasha Rush's [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)"
