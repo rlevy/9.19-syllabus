@@ -169,8 +169,11 @@ lectures:
       - "[Vaswani et al., 2017](https://arxiv.org/pdf/1706.03762.pdf)"
       - "Sasha Rush's [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)"
       - "[Wilcox et al., 2018](https://direct.mit.edu/ling/article-abstract/doi/10.1162/ling_a_00491/113304/Using-Computational-Models-to-Test-Syntactic)"
+
   Predictive processing:
     topic: Predictive processing in human language comprehension
+    slides: "Predictive processing in human language comprehension ([no builds](assets/slides/2023-11-08-predictive-processing-no-builds.pdf); [with builds](assets/slides/2023-11-08-predictive-processing-with-builds.pdf))"
+    readings: "[Kutas et al., 2011](https://vorpus.org/papers/kutas-delong-smith-2011-chapter.pdf)"
 
   Noisy channel:
     topic: Noisy-channel language understanding
