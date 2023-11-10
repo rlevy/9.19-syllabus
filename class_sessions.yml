@@ -177,6 +177,18 @@ lectures:
 
   Noisy channel:
     topic: Noisy-channel language understanding
+    videos:
+      - "[Language comprehension and rational analysis](https://youtu.be/4sMHaCr1XrA)"
+      - "[Surprisal and local coherence effects](https://youtu.be/SH4cIcbsbvw)"
+      - "[Noisy channel models](https://youtu.be/dhk7SILh7WI)"
+      - "[Accounting for local coherence effects, part 1](https://youtu.be/a-TYh--a8vM)"
+      - "[Accounting for local coherence effects, part 2](https://youtu.be/j9tE_mF6ApA)"
+    slides:
+      - "Noisy-channel language processing ([no builds](assets/slides/2023-11-13-noisy-channel-language-processing-no-builds.pdf); [with builds](assets/slides/2023-11-13-noisy-channel-language-processing-with-builds.pdf))"
+    readings:
+      - "[Gibson, Bergen, and Piantadosi, 2013](https://www.pnas.org/doi/abs/10.1073/pnas.1216438110)"
+    
+      
 
   Semantics I:
     topic: Natural language semantics I
