@@ -192,6 +192,8 @@ lectures:
 
   Semantics I:
     topic: Natural language semantics I
+    slides:
+      - "Introductory compositional semantics ([with builds](assets/slides/2023-11-15-semantics-I-with-builds.pdf); [no builds](assets/slides/2023-11-15-semantics-I-no-builds.pdf))"
 
   Semantics II:
     topic: Natural language semantics II
