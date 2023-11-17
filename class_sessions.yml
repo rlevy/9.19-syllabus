@@ -200,6 +200,8 @@ lectures:
 
   Pragmatics:
     topic: Pragmatics
+    readings:
+      - "[Goodman & Frank, 2016](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(16)30122-X)"
 
   Language production I:
     topic: Human Language Production
