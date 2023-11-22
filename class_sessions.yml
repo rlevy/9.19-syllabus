@@ -200,8 +200,12 @@ lectures:
 
   Pragmatics:
     topic: Pragmatics
+    slides:
+      - "Introductory Bayesian Pragmatics ([with builds](assets/slides/2023-11-22-intro-bayesian-pragmatics-with-builds.pdf); [no builds](assets/slides/2023-11-22-intro-bayesian-pragmatics-no-builds.pdf))"
     readings:
       - "[Goodman & Frank, 2016](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(16)30122-X)"
+    related readings:
+      - "[Grice, 1975](https://edge.edx.org/asset-v1:Brown+CSCI2951-K+2015_T2+type@asset+block/grice75.pdf)"
 
   Language production I:
     topic: Human Language Production
