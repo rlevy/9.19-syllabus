@@ -215,9 +215,23 @@ lectures:
 
   Acquisition I:
     topic: Language development and acquisition
+    videos:
+      - "[First language acquisition as unsupervised learning](https://youtu.be/kftR61gPnFI)"
+      - "[Learning vowel categories](https://youtu.be/DI0LgNoirtA)"
+      - "[Conjugacy](https://youtu.be/j-QMdyyPN7E)"
+      - "[Gibbs sampling](https://youtu.be/49W40tsPwmE)"
+    readings:
+      - "[Feldman et al., 2013](https://cocosci.princeton.edu/tom/papers/LabPublications/PhoneticCategoryLearning.pdf) (Simulations 2–4 not necessary but encouraged)"
 
   Acquisition II:
     topic: Language development and acquisition II
+    videos:
+      - "[Unsupervised word segmentation](https://youtu.be/oFQ6Di_srj0)"
+      - "[Transition probabilities](https://youtu.be/5tMp4F2cvus)"
+      - "[Generative model for word segmentation](https://youtu.be/45T_MDZlds8)"
+      - "[Bigram model for word segmentation](https://youtu.be/cm8e7DQmn_4)"
+    readings:
+      - "[Goldwater et al., 2009](https://www.sciencedirect.com/science/article/pii/S0010027709000675?casa_token=8AN6_sStxkMAAAAA:k09Tn3WyqCaQwgYC8TmKejRXMTKndYHyibj6zxfE3i4kLrXvQlGHT0sF9MWtpXgAibg0ztyK4Q)"
 
   Typology:
     topic: The diversity of languages across the world
