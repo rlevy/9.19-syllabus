@@ -211,9 +211,16 @@ lectures:
     topic: Human Language Production
     slides:
       - "[Language Production I](assets/slides/language-production-1.pdf)"
+    readings:
+      - "[Levy & Jaeger, 2006](https://proceedings.neurips.cc/paper_files/paper/2006/hash/c6a01432c8138d46ba39957a8250e027-Abstract.html)"
 
   Language production II:
     topic: Human Language Production, continued
+    slides:
+      - "[Language Production II](assets/slides/language-production-2.pdf)"
+    readings:
+      - "[Zhan & Levy, 2018](https://dspace.mit.edu/handle/1721.1/122953)"
+      - "[Clark et al., 2022](https://escholarship.org/content/qt1q19f8vt/qt1q19f8vt_noSplash_1c5c113f589d317f33dadea2e418b208.pdf)"
 
   Acquisition I:
     topic: Language development and acquisition
