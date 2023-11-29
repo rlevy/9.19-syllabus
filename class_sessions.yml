@@ -209,6 +209,8 @@ lectures:
 
   Language production I:
     topic: Human Language Production
+    slides:
+      - "[Language Production I](assets/slides/language-production-1.pdf)"
 
   Language production II:
     topic: Human Language Production, continued
