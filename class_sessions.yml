@@ -244,6 +244,8 @@ lectures:
 
   Typology:
     topic: The diversity of languages across the world
+    slides:
+      - "Global linguistic diversity ([with builds](assets/slides/2023-12-11-world-language-diversity-with-builds.pdf); [no builds](2023-12-11-world-language-diversity-no-builds.pdf))"
 
   Indigenous Peoples Day:
     topic: "*Indigenous People's Day, no class*"
